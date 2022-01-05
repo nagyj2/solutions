@@ -1,0 +1,8 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "solutions",
+  "description": "solutions settings.",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": false
+}
